@@ -1,0 +1,19 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "莫急天气",
+			"navigationStyle":"custom"//隐藏顶部状态栏
+		}
+	}    ,{
+            "path" : "pages/zhuye/zhuye",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}
